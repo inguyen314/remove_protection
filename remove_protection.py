@@ -74,10 +74,10 @@ try:
     except : pass
 
 
-    # Single TS ID OPTION, STAGE REV and 29 GOES HERE
+    # For single tsid, STAGE REV GOES HERE
     # Data = ['Hermann-Missouri.Stage.Inst.15Minutes.0.lrgsShef-rev']
 
-    # Multiple TS ID OPTION, STAGE REV and 29 GOES HERE
+    # For multiple tsid, STAGE REV and 29 GOES HERE
     Data = ['Mel Price TW-Mississippi.Stage.Inst.30Minutes.0.lrgsShef-rev','Mel Price TW-Mississippi.Stage.Inst.30Minutes.0.29']
 
 
